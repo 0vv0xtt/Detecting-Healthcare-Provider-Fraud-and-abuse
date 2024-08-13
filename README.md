@@ -41,3 +41,11 @@ The dataset used in this project is the **Medicare Inpatient Hospitals by Geogra
 4. **Anomaly Detection:**
    - Apply the KNN and PCA models to detect outliers in the data.
 
+### Technology and Package Used:
+This project was developed using Python. The following Python packages were used in this project:
+- **pandas:** For data manipulation and analysis.
+- **numpy:** For numerical computing.
+- **matplotlib & seaborn:** For data visualization.
+- **scikit-learn:** For implementing machine learning algorithms, including KNN and PCA.
+- **pyod:** For outlier detection in unsupervised learning.
+
