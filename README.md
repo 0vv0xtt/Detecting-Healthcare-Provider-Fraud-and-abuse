@@ -1,4 +1,4 @@
-# Detecting-Healthcare-Provider-Fraud-and-abus# Detecting Healthcare Provider Fraud and Abuse Using Unsupervised Learning
+# Detecting Healthcare Provider Fraud and Abuse Using Unsupervised Learning
 
 ## Project Overview:
 This project aims to identify potential fraud and abuse among healthcare providers using the Medicare Inpatient Hospitals by Geography and Service dataset. The dataset includes information on hospital discharges, payments, and submitted charges for Medicare Part A beneficiaries, organized by geography and Medicare Severity Diagnosis Related Group (DRG).
