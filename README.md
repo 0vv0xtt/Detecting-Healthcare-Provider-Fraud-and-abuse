@@ -1,11 +1,9 @@
-# Detecting-Healthcare-Provider-Fraud-and-abuse
-identify potential fraud and abuse among healthcare providers. By applying unsupervised learning techniques, such as clustering, PCA, and KNN, this project aims to uncover unusual patterns and outliers in the data that may indicate fraudulent or abusive behavior by healthcare providers.
-
-
-# Detecting Healthcare Provider Fraud and Abuse Using Unsupervised Learning
+# Detecting-Healthcare-Provider-Fraud-and-abus# Detecting Healthcare Provider Fraud and Abuse Using Unsupervised Learning
 
 ## Project Overview:
 This project aims to identify potential fraud and abuse among healthcare providers using the Medicare Inpatient Hospitals by Geography and Service dataset. The dataset includes information on hospital discharges, payments, and submitted charges for Medicare Part A beneficiaries, organized by geography and Medicare Severity Diagnosis Related Group (DRG).
+
+By detecting fraudulent patterns and abuse in Medicare claims, this project helps healthcare organizations and insurers mitigate financial losses, reduce fraud-related costs, and improve resource allocation. Early identification of anomalies can also support regulatory compliance, ensure fair payment practices, and protect patients from unethical provider behavior, ultimately enhancing the sustainability and efficiency of healthcare systems.
 
 ### Key Objectives:
 - **Exploratory Data Analysis (EDA):** Understand the dataset, identify key patterns, and visualize distributions to gain insights into the behavior of healthcare providers.
